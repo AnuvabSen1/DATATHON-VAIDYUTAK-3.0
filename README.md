@@ -27,9 +27,36 @@ In this challenge, the objective is to analyze and derive insights from two dist
   - Identify commonalities and differences in top-selling products and customer behavior between Dataset A and Dataset B.
   - Explore any correlations or patterns that emerge when considering both datasets collectively.
 
+### Tools Used for Analysis:
+
+You have the flexibility to choose any tool for your analysis. However, the preferred tools include:
+
+- **MS Excel**
+- **Tableau/ PowerBI, etc**
+- **Jupyter Notebook/ Google Colab, Matplotlib**
+
+### Deliverables:
+
+### Methodology Report
+
+A comprehensive report outlining the methodology employed in your analysis. The report should be concise and may include references, tables, figures, and results. The acceptable file formats are either a **PowerPoint (ppt)** or a **PDF**. If you utilize tools like Excel, please include details about the Excel formulas used in the analysis.
+
+## Marking Criteria:
+
+Evaluation of your reports will consider various metrics, including:
+
+- **Writing Style, References, Figures, etc.**
+- **Dataset Exploration**
+- **Methods**
+- **Results of Analysis**
+- **Discussion**
+
+Feel free to present your findings in a clear and organized manner, utilizing the chosen tools to provide valuable insights from the dataset.
+
+
 ### Dataset Links
 - [Dataset Link 1 : https://drive.google.com/file/d/1i6mYpZG_lBk_1Gx-9CuLnwQq9eJ1Jrd_/view?usp=sharing](https://drive.google.com/file/d/1i6mYpZG_lBk_1Gx-9CuLnwQq9eJ1Jrd_/view?usp=sharing)
-- [[Dataset Link 2 : https://drive.google.com/file/d/1ikgpwWDYbui1UAC3PFXPAuT_iVvHJWSF/view?usp=sharing](https://drive.google.com/file/d/1ikgpwWDYbui1UAC3PFXPAuT_iVvHJWSF/view?usp=sharing)
+- [Dataset Link 2 : https://drive.google.com/file/d/1ikgpwWDYbui1UAC3PFXPAuT_iVvHJWSF/view?usp=sharing](https://drive.google.com/file/d/1ikgpwWDYbui1UAC3PFXPAuT_iVvHJWSF/view?usp=sharing)
 
 ---
 
