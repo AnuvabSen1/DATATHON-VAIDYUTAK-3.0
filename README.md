@@ -35,7 +35,7 @@ You have the flexibility to choose any tool for your analysis. However, the pref
 - **Tableau/ PowerBI, etc**
 - **Jupyter Notebook/ Google Colab, Matplotlib**
 
-### Deliverables:
+## Deliverables:
 
 ### Methodology Report
 
