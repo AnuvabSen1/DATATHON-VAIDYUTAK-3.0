@@ -1,4 +1,4 @@
-# VAIML (VAIDYUTAK MACHINE LEARNING)
+# DATATHON
 
 ## Problem 1: Online Retail Transactions Analysis
 
