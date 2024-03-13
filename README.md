@@ -39,8 +39,6 @@ Breast cancer is a significant global health concern, impacting millions of live
 
 ![image](https://github.com/AnuvabSen1/DATATHON/assets/86666497/ce8bc437-d57e-4972-a9ae-a5dc101696ce)
 
-
-
 ### Dataset Description
 This dataset consists of 100 pairs of mammograms, from two temporally sequential rounds. Specifically, this dataset includes the prior and recent mammograms of CC and MLO view of each patient. This is a complete dataset for the detection and BI-RADS classification of breast micro-calcifications, using digital mammograms. It contains normal (BI-RADS 1), benign (BI-RADS 2), and suspicious (BI-RADS 4-5) cases, and for each mammogram, an image with precise annotation of each individual micro-calcification, by two expert radiologists, is provided. In 32 suspicious cases, the biopsy results are also available.
 
