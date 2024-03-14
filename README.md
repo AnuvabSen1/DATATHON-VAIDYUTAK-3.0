@@ -63,8 +63,7 @@ It takes a lot of effort and time to extract important legal information from Fi
 
 - Develop a state-of-the-art (SOTA) model that can automatically process FIR images and identify the applicable IPC sections: 
 - Analyse the textual content within the FIR image to pinpoint the relevant sections of the Indian Penal Code (IPC) associated with the reported crime.
-- Classify the criminal act: Categorise the criminal activity described in the FIR based on the identified IPC sections. 
-- Recommend potential punishments: Based on the classified act and relevant IPC sections, suggest the range of punishments typically awarded for such offenses.
+- Classify the criminal act: Categorise the criminal activity described in the FIR based on the identified IPC sections. Recommend potential punishments: Based on the classified act and relevant IPC sections, suggest the range of punishments typically awarded for such offenses.
 
 ### Examples for Analysis :
 - Develop algorithms for accurate text extraction and image processing from FIR documents.
