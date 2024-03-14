@@ -33,8 +33,6 @@ You have the flexibility to choose any tool for your analysis. However, the pref
 - **Tableau/ PowerBI, etc**
 - **Jupyter Notebook/ Google Colab, Matplotlib**
 
-## Deliverables:
-
 ### Methodology Report
 
 A comprehensive report outlining the methodology employed in your analysis. The report should be concise and may include references, tables, figures, and results. The acceptable file formats are either a **PowerPoint (ppt)** or a **PDF**. If you utilize tools like Excel, please include details about the Excel formulas used in the analysis.
@@ -57,8 +55,34 @@ Feel free to present your findings in a clear and organized manner, utilizing th
 - [Dataset Link 2 : https://drive.google.com/file/d/1ikgpwWDYbui1UAC3PFXPAuT_iVvHJWSF/view?usp=sharing](https://drive.google.com/file/d/1ikgpwWDYbui1UAC3PFXPAuT_iVvHJWSF/view?usp=sharing)
 
 ---
+## Problem 2 : Extracting Legal Insights from FIR Images
 
-## Problem 2: Breast Cancer Diagnosis Model
+It takes a lot of effort and time to extract important legal information from First Information Report (FIR) papers. The manual analysis of legalese and content might cause delays and even misinterpretations.
+
+### Challenge Statement:
+
+- Develop a state-of-the-art (SOTA) model that can automatically process FIR images and identify the applicable IPC sections: 
+- Analyse the textual content within the FIR image to pinpoint the relevant sections of the Indian Penal Code (IPC) associated with the reported crime.
+- Classify the criminal act: Categorise the criminal activity described in the FIR based on the identified IPC sections. 
+- Recommend potential punishments: Based on the classified act and relevant IPC sections, suggest the range of punishments typically awarded for such offenses.
+
+### Examplea for Analysis :
+- Develop algorithms for accurate text extraction and image processing from FIR documents.
+- Develop models to effectively analyse the extracted text and identify relevant legal information.
+- Build robust models for crime classification and potential punishment prediction based on the extracted legal data.
+### Bonus Challenge :
+Draw attention to how difficult it might be to handle handwritten content and different layouts in FIRs. Stress how crucial it is to take the changing nature of legal interpretations into account.
+### Presentation and Code
+- Share your insights in the form of a PowerPoint presentation.
+- Share your code accordingly.
+- Marks will be awarded based on the quality of the presentation.
+### Dataset Description:
+The hackathon will provide a dataset of FIR images along with corresponding annotations indicating the applicable IPC sections, criminal act categories, and potential punishments.
+
+Dataset Link: [FIR IMAGE DATASET](https://drive.google.com/drive/folders/1DRC8YrKB9XOWChqsUUGfJFP64yUFwT2K?usp=sharing)
+
+---
+## Problem 3: Breast Cancer Diagnosis Model
 
 Breast cancer is a significant global health concern, impacting millions of lives every year. Early detection of breast cancer is directly linked to improved treatment outcomes. Timely identification of abnormalities, such as micro-calcifications, allows for early intervention, potentially reducing the severity of the disease and increasing the chances of successful treatment. The detailed annotations provided by expert radiologists in the dataset contribute to the precision of breast cancer diagnosis. Accurate identification and characterization of micro-calcifications enhance the reliability of diagnostic assessments, guiding healthcare professionals in making informed decisions. The dataset includes cases classified into BI-RADS categories, distinguishing between normal (BI-RADS 1), benign (BI-RADS 2), and suspicious (BI-RADS 4-5) conditions. This differentiation is critical for clinicians to prioritize and tailor their approach to patient care based on the severity of the identified abnormalities. Identification of suspicious cases, especially those where biopsy results are available, aids in risk stratification. Understanding the likelihood of malignancy informs healthcare providers about the urgency of further diagnostic procedures and potential treatment strategies.
 
