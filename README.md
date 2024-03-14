@@ -66,7 +66,7 @@ It takes a lot of effort and time to extract important legal information from Fi
 - Classify the criminal act: Categorise the criminal activity described in the FIR based on the identified IPC sections. 
 - Recommend potential punishments: Based on the classified act and relevant IPC sections, suggest the range of punishments typically awarded for such offenses.
 
-### Examplea for Analysis :
+### Examples for Analysis :
 - Develop algorithms for accurate text extraction and image processing from FIR documents.
 - Develop models to effectively analyse the extracted text and identify relevant legal information.
 - Build robust models for crime classification and potential punishment prediction based on the extracted legal data.
